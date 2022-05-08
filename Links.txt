@@ -1,0 +1,88 @@
+BigO
+https://www.bigocheatsheet.com/ - bigO cheat sheet
+
+Solving Problems
+https://www.youtube.com/watch?v=XKu_SEDAykw - How to: Work at Google — Example Coding/Engineering Interview
+
+Data Structure
+https://en.wikipedia.org/wiki/List_of_data_structures - list of data structures
+https://www.youtube.com/watch?v=fpnE6UAfbtU - how computers store data
+https://visualgo.net/en - visualising data structures and algorithms through animation
+
+Arrays
+https://dev.to/sethusenthil/var-vs-let-vs-const-1cgc - 'var' vs 'let' vs 'const'
+https://regex101.com/ - regular expressions.
+
+Hesh Tables
+http://www.miraclesalad.com/webtools/md5.php - md5 Hash Generator
+https://www.cs.usfca.edu/~galles/visualization/OpenHash.html - hesh table animation
+https://en.wikipedia.org/wiki/Hash_table - hesh table description
+https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(associative_array) - associative array (hesh table) description in different languages
+https://softwaremaniacs.org/blog/2020/02/05/dicts-ordered/en/ - dicts (ordered hesh tables) in Python
+
+Linked List
+https://www.youtube.com/watch?v=DyG9S9nAlUM - Array vs Linked List
+
+Tree
+https://medium.com/basecs/the-little-avl-tree-that-could-86a3cae410c7 - AVL tree (description)
+https://www.cs.usfca.edu/~galles/visualization/AVLtree.html - AVL tree (animation)
+https://medium.com/basecs/painting-nodes-black-with-red-black-trees-60eacb2be9a5   - Red/Bleck tree (description)
+https://www.cs.usfca.edu/~galles/visualization/RedBlack.html - Red/Bleck tree (animation)
+https://stackoverflow.com/questions/13852870/red-black-tree-over-avl-tree - Red black tree over avl tree
+https://stackoverflow.com/questions/1699057/why-are-two-different-concepts-both-called-heap - Heap
+https://www.geeksforgeeks.org/implementation-priority-queue-javascript/ - Implementation of Priority Queue in Javascript
+
+Recursion
+https://2ality.com/2015/06/tail-call-optimization.html - tail call optimization
+https://stackoverflow.com/questions/105838/real-world-examples-of-recursion - when to use recursion
+
+Sorting
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort - sorting in JS
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare - localeCompare (in JS)
+https://www.toptal.com/developers/sorting-algorithms - Toptal (sortin algotithms animation)
+https://stackoverflow.com/questions/1517793/what-is-stability-in-sorting-algorithms-and-why-is-it-important - Stable VS Unstable Algorithms
+https://brilliant.org/wiki/heap-sort/ -  heap sorting
+https://stackoverflow.com/questions/2467751/quicksort-vs-heapsort - Quicksort vs heapsort
+https://brilliant.org/wiki/radix-sort/ - radix sort
+https://www.cs.usfca.edu/~galles/visualization/RadixSort.html - radix sort animation
+https://brilliant.org/wiki/counting-sort/ - counting sort
+https://www.cs.usfca.edu/~galles/visualization/CountingSort.html - counting sort animation
+
+Searching
+https://stackoverflow.com/questions/9844193/what-is-the-time-and-space-complexity-of-a-breadth-first-and-depth-first-tree-tr - time and space complexity of a breadth first and depth first tree traversal
+https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e - Dijkstra
+
+Get experiance from ZTM
+https://github.com/zero-to-mastery/start-here-guidelines - Open Source  from ZTM quidelines
+https://github.com/zero-to-mastery - ZTM projects
+https://zerotomastery.io/community/?utm_source=udemy&utm_medium=coursecontent - ZTM guide/website
+https://zerotomastery.io/career-paths/ - career paths
+
+Interview
+https://www.resumemaker.online/ - free resume maker
+https://www.jobscan.co/ - check if your resume fit job info
+https://github.com/zero-to-mastery/start-here-guidelines - zero to master (GitHub)
+https://zerotomastery.io/community/coding-challenges/  - coding challenges from zero to master
+https://zerotomastery.io/resources/ - free developer resources
+https://www.cakeresume.com/Engineering-resume-samples - resume samples
+https://github.com/aneagoie/gitfiti - fine picture for GitHub
+https://github.com/ZachSaucier/github-calendar-customizer - fine picture for GitHub
+
+Templates for Portfolio:
+https://cruip.com/
+http://www.mashup-template.com/templates.html
+https://mdbootstrap.com/freebies/
+https://www.creative-tim.com/bootstrap-themes/free
+ Portfolio samples:
+https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae
+https://zero-to-mastery.github.io/ZtM-Job-Board/
+
+Coding online:
+https://replit.com/ - coding online
+https://glot.io/ - coding online
+
+https://github.com/viraptor/reverse-interview - question to ask a company
+https://www.glassdoor.com/index.htm - job info searching  (adv?)
+https://www.salary.com/ - developer salary info (adv?)
+https://www.payscale.com/products/ - Uncover insights from market and company-sourced data (adv?)
+https://www.youtube.com/watch?v=XY5SeCl_8NE&feature=youtu.be - How to Negotiate Your Salary, with Ramit Sethi
